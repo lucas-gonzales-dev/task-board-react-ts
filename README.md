@@ -19,8 +19,8 @@ Aplicação web para gerenciamento de tarefas com funcionalidades de adicionar, 
 Clone o repositório e instale as dependências:
 
 ```bash
-git clone https://github.com/lucas-gonzales/RID99751_Desafio_Construa_um_Gerenciador_de_Tarefas.git
-cd RID99751_Desafio_Construa_um_Gerenciador_de_Tarefas
+git clone https://github.com/lucas-gonzales-dev/task-board-react-ts.git
+cd task-board-react-ts
 npm install
 npm run dev
 ```
